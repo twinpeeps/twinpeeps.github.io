@@ -21,9 +21,9 @@
         <itunes:subtitle>Talkin&#x27; &#x27;Bout Twins!</itunes:subtitle>
         <itunes:summary>Mike and Kyle discuss the pilot episode of Twin Peaks.</itunes:summary>
         <itunes:image href="http://ia601508.us.archive.org/20/items/twinpeeps_cover/cover_art_new.jpg" />
-        <enclosure url="https://ia902603.us.archive.org/14/items/TwinPeepsEpisode1/TwinPeepsEpisode1.mp3" length="54895396" type="audio/mpeg"/>
-        <guid>https://ia902603.us.archive.org/14/items/TwinPeepsEpisode1/TwinPeepsEpisode1.mp3" length="54895396" type="audio/mpeg"</guid>
-        <pubDate>19 Apr 2015 21:57:03 GMT-0500 (CDT)</pubDate>
+        <enclosure url="http://ia902603.us.archive.org/14/items/TwinPeepsEpisode1/TwinPeepsEpisode1.mp3" length="54895396" type="audio/mpeg"/>
+        <guid>https://ia902603.us.archive.org/14/items/TwinPeepsEpisode1/TwinPeepsEpisode1.mp3</guid>
+        <pubDate>19 Apr 2015 21:57:03 GMT</pubDate>
         <itunes:duration>53:58</itunes:duration>
       </item>
 
