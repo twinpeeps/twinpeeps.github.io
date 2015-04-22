@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Twin Peeps</title>
+    <link>https://twinpeepsshow.wordpress.com</link>
+    <language></language>
+    <copyright>n/a</copyright>
+    <itunes:subtitle>Talkin&#x27; &#x27;Bout Twins!</itunes:subtitle>
+    <itunes:author>Mike &amp; Kyle</itunes:author>
+    <itunes:summary>Mike &amp; Kyle talk Twin Peaks.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Michael Ramuta</itunes:name>
+      <itunes:email>twinpeepsshow@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.dropbox.com/s/lyssrwg7s2y8eph/cover_art_new.jpg" />
+    <itunes:category text="TV &amp; Film"/>
+
+      <item>
+        <title>Episode 1: Pilot</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>Talkin&#x27; &#x27;Bout Twins!</itunes:subtitle>
+        <itunes:summary>Mike and Kyle discuss the pilot episode of Twin Peaks.</itunes:summary>
+        <itunes:image href="https://www.dropbox.com/s/lyssrwg7s2y8eph/cover_art_new.jpg" />
+        <enclosure url="https://ia902603.us.archive.org/14/items/TwinPeepsEpisode1/TwinPeepsEpisode1.mp3" length="54895396" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate>Sun Apr 19 2015 21:57:03 GMT-0500 (CDT)</pubDate>
+        <itunes:duration>53:58</itunes:duration>
+      </item>
+
+  </channel>
+  </rss>
