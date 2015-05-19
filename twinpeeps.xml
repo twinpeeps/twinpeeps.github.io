@@ -49,5 +49,16 @@
 <pubDate>12 May 2015 00:00:01 GMT</pubDate>
 <itunes:duration>1:06:38</itunes:duration>
 </item>
+<item>
+<title>Episode 4: Rest In Pain</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss the fourth episode of Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia800309.us.archive.org/15/items/TPEp4_201505/TPEp4.m4a" length="67220576" type="audio/mpeg" />
+<guid>http://ia800309.us.archive.org/15/items/TPEp4_201505/TPEp4.m4a</guid>
+<pubDate>19 May 2015 00:00:01 GMT</pubDate>
+<itunes:duration>1:06:27</itunes:duration>
+</item>
 </channel>
 </rss>
