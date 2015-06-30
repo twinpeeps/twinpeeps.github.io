@@ -115,5 +115,16 @@
 <pubDate>23 Jun 2015 00:00:01 GMT</pubDate>
 <itunes:duration>19:51</itunes:duration>
 </item>
+<item>
+<title>Episode 10: Minisode 2</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss stuff kind of related to Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601506.us.archive.org/23/items/TPEp10ME2/TPEp10ME2.m4a" length="25369188" type="audio/mpeg" />
+<guid>http://ia601506.us.archive.org/23/items/TPEp10ME2/TPEp10ME2.m4a</guid>
+<pubDate>30 Jun 2015 00:00:01 GMT</pubDate>
+<itunes:duration>25:26</itunes:duration>
+</item>
 </channel>
 </rss>
