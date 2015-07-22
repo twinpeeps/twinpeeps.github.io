@@ -148,5 +148,16 @@
 <pubDate>14 Jul 2015 00:00:01 GMT</pubDate>
 <itunes:duration>35:30</itunes:duration>
 </item>
+<item>
+<title>Episode 13: Minisode 5</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss stuff kind of related to Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601502.us.archive.org/22/items/TPEp11ME5_201507/TPEp11ME5.m4a" length="23872357" type="audio/mpeg" />
+<guid>http://ia601502.us.archive.org/22/items/TPEp11ME5_201507/TPEp11ME5.m4a</guid>
+<pubDate>21 Jul 2015 00:00:01 GMT</pubDate>
+<itunes:duration>24:00</itunes:duration>
+</item>
 </channel>
 </rss>
