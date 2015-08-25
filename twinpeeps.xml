@@ -192,5 +192,16 @@
 <pubDate>18 Aug 2015 00:00:01 GMT</pubDate>
 <itunes:duration>27:59</itunes:duration>
 </item>
+<item>
+<title>Episode 17: Season 2 Episode 1</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601509.us.archive.org/11/items/TPEp17s2e1/TPEp17s2e1.m4a" length="81810727" type="audio/mpeg" />
+<guid>http://ia601509.us.archive.org/11/items/TPEp17s2e1/TPEp17s2e1.m4a</guid>
+<pubDate>25 Aug 2015 00:00:01 GMT</pubDate>
+<itunes:duration>1:22:38</itunes:duration>
+</item>
 </channel>
 </rss>
