@@ -214,5 +214,16 @@
 <pubDate>01 Sep 2015 00:00:01 GMT</pubDate>
 <itunes:duration>1:21:58</itunes:duration>
 </item>
+<item>
+<title>Episode 19: The Man Behind Glass</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia801508.us.archive.org/3/items/TPEp19s2e3/TPEp19s2e3.m4a" length="73522192" type="audio/mpeg" />
+<guid>http://ia801508.us.archive.org/3/items/TPEp19s2e3/TPEp19s2e3.m4a</guid>
+<pubDate>08 Sep 2015 00:00:01 GMT</pubDate>
+<itunes:duration>1:12:34</itunes:duration>
+</item>
 </channel>
 </rss>
