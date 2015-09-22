@@ -236,5 +236,16 @@
 <pubDate>15 Sep 2015 00:00:01 GMT</pubDate>
 <itunes:duration>51:14</itunes:duration>
 </item>
+<item>
+<title>Episode 21: The Orchid's Curse</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601509.us.archive.org/28/items/TPEp21s2e5/TPEp21s2e5.m4a" length="60765015" type="audio/mpeg" />
+<guid>http://ia601509.us.archive.org/28/items/TPEp21s2e5/TPEp21s2e5.m4a</guid>
+<pubDate>21 Sep 2015 00:00:01 GMT</pubDate>
+<itunes:duration>01:00:50</itunes:duration>
+</item>
 </channel>
 </rss>
