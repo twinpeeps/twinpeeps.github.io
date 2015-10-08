@@ -258,5 +258,16 @@
 <pubDate>28 Sep 2015 00:00:01 GMT</pubDate>
 <itunes:duration>02:21</itunes:duration>
 </item>
+<item>
+<title>Episode 23: Demons</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601508.us.archive.org/2/items/TPEp22s2e6/TPEp22s2e6.m4a" length="68345971" type="audio/mpeg" />
+<guid>http://ia601508.us.archive.org/2/items/TPEp22s2e6/TPEp22s2e6.m4a</guid>
+<pubDate>06 Oct 2015 00:00:01 GMT</pubDate>
+<itunes:duration>02:21</itunes:duration>
+</item>
 </channel>
 </rss>
