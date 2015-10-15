@@ -269,5 +269,16 @@
 <pubDate>06 Oct 2015 00:00:01 GMT</pubDate>
 <itunes:duration>02:21</itunes:duration>
 </item>
+<item>
+<title>Episode 24: Lonely Souls</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601506.us.archive.org/18/items/TPEp23s2e7/TPEp23s2e7.m4a" length="54570175" type="audio/mpeg" />
+<guid>http://ia601506.us.archive.org/18/items/TPEp23s2e7/TPEp23s2e7.m4a</guid>
+<pubDate>13 Oct 2015 00:00:01 GMT</pubDate>
+<itunes:duration>53:25</itunes:duration>
+</item>
 </channel>
 </rss>
