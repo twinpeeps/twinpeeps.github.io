@@ -291,5 +291,16 @@
 <pubDate>20 Oct 2015 00:00:01 GMT</pubDate>
 <itunes:duration>54:25</itunes:duration>
 </item>
+<item>
+<title>Episode 26: Arbitrary Law</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601501.us.archive.org/5/items/TPEp25s2e9/TPEp25s2e9.m4a" length="56093999" type="audio/mpeg" />
+<guid>http://ia601501.us.archive.org/5/items/TPEp25s2e9/TPEp25s2e9.m4a</guid>
+<pubDate>27 Oct 2015 00:00:01 GMT</pubDate>
+<itunes:duration>54:30</itunes:duration>
+</item>
 </channel>
 </rss>
