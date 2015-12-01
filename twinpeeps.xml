@@ -346,5 +346,17 @@
 <pubDate>24 Nov 2015 00:00:01 GMT</pubDate>
 <itunes:duration>39:05</itunes:duration>
 </item>
+</item>
+<item>
+<title>Episode 31: Double Play</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601509.us.archive.org/10/items/TPEp30s2e14/TPEp30s2e14.m4a" length="24264862" type="audio/mpeg" />
+<guid>http://ia601509.us.archive.org/10/items/TPEp30s2e14/TPEp30s2e14.m4a</guid>
+<pubDate>01 Dec 2015 00:00:01 GMT</pubDate>
+<itunes:duration>24:20</itunes:duration>
+</item>
 </channel>
 </rss>
