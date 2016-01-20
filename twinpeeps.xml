@@ -379,5 +379,16 @@
 <pubDate>12 Jan 2016 00:00:01 GMT</pubDate>
 <itunes:duration>53:13</itunes:duration>
 </item>
+<item>
+<title>Episode 34: Wounds and Scars</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://ia601503.us.archive.org/10/items/TPEp34s2e17/TPEp34s2e17.m4a" />
+<enclosure url="http://ia601503.us.archive.org/10/items/TPEp34s2e17/TPEp34s2e17.m4a" length="86804883" type="audio/mpeg" />
+<guid>http://ia601509.us.archive.org/25/items/TPEp32s2e16/TPEp32s2e16.m4a</guid>
+<pubDate>19 Jan 2016 00:00:01 GMT</pubDate>
+<itunes:duration>01:24:20</itunes:duration>
+</item>
 </channel>
 </rss>
