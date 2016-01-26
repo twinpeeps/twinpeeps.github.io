@@ -390,5 +390,15 @@
 <pubDate>19 Jan 2016 00:00:01 GMT</pubDate>
 <itunes:duration>01:24:20</itunes:duration>
 </item>
+<title>Episode 35: On the Wings of Love</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601500.us.archive.org/21/items/TPEp34s2e18/TPEp34s2e18.m4a" length="82314176" type="audio/mpeg" />
+<guid>http://ia601500.us.archive.org/21/items/TPEp34s2e18/TPEp34s2e18.m4a</guid>
+<pubDate>26 Jan 2016 00:00:01 GMT</pubDate>
+<itunes:duration>01:19:36</itunes:duration>
+</item>
 </channel>
 </rss>
