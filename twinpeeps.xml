@@ -401,5 +401,16 @@
 <pubDate>26 Jan 2016 00:00:01 GMT</pubDate>
 <itunes:duration>01:19:36</itunes:duration>
 </item>
+<item>
+<title>Episode 36: Variations on Relations</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601504.us.archive.org/32/items/TPEp35s2e19/TPEp35s2e19.m4a" length="70939131" type="audio/mpeg" />
+<guid>http://ia601504.us.archive.org/32/items/TPEp35s2e19/TPEp35s2e19.m4a</guid>
+<pubDate>02 Feb 2016 00:00:01 GMT</pubDate>
+<itunes:duration>01:09:07</itunes:duration>
+</item>
 </channel>
 </rss>
