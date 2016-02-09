@@ -412,5 +412,16 @@
 <pubDate>02 Feb 2016 00:00:01 GMT</pubDate>
 <itunes:duration>01:09:07</itunes:duration>
 </item>
+<item>
+<title>Episode 37: SUPER BOWL 50 PRE-GAME SPECIAL - The Path to the Black Lodge</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601500.us.archive.org/32/items/TPEp36s2e20/TPEp36s2e20.m4a" length="63983391" type="audio/mpeg" />
+<guid>http://ia601500.us.archive.org/32/items/TPEp36s2e20/TPEp36s2e20.m4a</guid>
+<pubDate>09 Feb 2016 00:00:01 GMT</pubDate>
+<itunes:duration>01:02:27</itunes:duration>
+</item>
 </channel>
 </rss>
