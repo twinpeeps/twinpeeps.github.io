@@ -423,5 +423,16 @@
 <pubDate>09 Feb 2016 00:00:01 GMT</pubDate>
 <itunes:duration>01:02:27</itunes:duration>
 </item>
+<item>
+<title>Episode 38: Miss Twin Peaks</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia601504.us.archive.org/4/items/TPEp37s2e21/TPEp37s2e21.m4a" length="93450409" type="audio/mpeg" />
+<guid>http://ia601504.us.archive.org/4/items/TPEp37s2e21/TPEp37s2e21.m4a</guid>
+<pubDate>16 Feb 2016 00:00:01 GMT</pubDate>
+<itunes:duration>01:30:51</itunes:duration>
+</item>
 </channel>
 </rss>
