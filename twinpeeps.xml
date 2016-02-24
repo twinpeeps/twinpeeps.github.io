@@ -434,5 +434,16 @@
 <pubDate>16 Feb 2016 00:00:01 GMT</pubDate>
 <itunes:duration>01:30:51</itunes:duration>
 </item>
+<item>
+<title>Episode 39: Beyond Life and Death</title>
+<itunes:author>Twin Peeps</itunes:author>
+<itunes:subtitle>Talkin' 'Bout Twins!</itunes:subtitle>
+<itunes:summary>We discuss Twin Peaks.</itunes:summary>
+<itunes:image href="http://archive.org/download/logo1_20150428/logo1.jpg" />
+<enclosure url="http://ia801506.us.archive.org/24/items/TPEp38s2e22/TPEp38s2e22.m4a" length="77066666" type="audio/mpeg" />
+<guid>http://ia801506.us.archive.org/24/items/TPEp38s2e22/TPEp38s2e22.m4a</guid>
+<pubDate>23 Feb 2016 00:00:01 GMT</pubDate>
+<itunes:duration>01:15:05</itunes:duration>
+</item>
 </channel>
 </rss>
